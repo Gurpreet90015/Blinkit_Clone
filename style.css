@@ -1,0 +1,32 @@
+.zoom{
+    zoom:30%
+}
+.nav-item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+div.mid{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+div.mid1{
+    /* background-color: #333; */
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+  }
+div.mid2{
+    display: contents;
+}
+div.bttom{
+    overflow: auto scroll;
+    white-space: nowrap;
+    padding: 10px;
+    display: flex;
+}
+footer{
+ display: flex;
+}
